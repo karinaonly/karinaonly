@@ -1,5 +1,7 @@
 # 💫 About Me:
 - I'm a Full Stack Developer and BS Information Technology student at Cavite State University, focused on building structured, database-driven web applications.<br>- I led my Capstone Project — an online proctoring system built with ReactJS and NestJS — and developed my DevOps skills during a 486-hour internship.<br>- I care about writing maintainable code, designing solid databases, and delivering features that solve real problems.
+* 🖥️  See my portfolio at [My portfolio](http://dl-dev-portfolio.vercel.app/)
+* 🚀  I'm currently working on [E-Commerce Web System](http://omega.synchores.com)
 
 
 ## 🌐 Socials:
